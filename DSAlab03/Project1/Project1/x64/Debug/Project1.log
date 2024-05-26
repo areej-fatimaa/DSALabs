@@ -1,0 +1,3 @@
+﻿  Prefix.cpp
+D:\DSA\DSAlab03\Project1\Project1\Prefix.h(79,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Project1.vcxproj -> D:\DSA\DSAlab03\Project1\x64\Debug\Project1.exe
