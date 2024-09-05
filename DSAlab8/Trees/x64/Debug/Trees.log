@@ -1,0 +1,3 @@
+﻿  Node.cpp
+D:\DSA\DSAlab8\Trees\Node.h(238,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Trees.vcxproj -> D:\DSA\DSAlab8\Trees\x64\Debug\Trees.exe

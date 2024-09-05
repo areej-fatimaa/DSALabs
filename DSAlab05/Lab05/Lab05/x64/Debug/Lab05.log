@@ -1,0 +1,18 @@
+﻿  Class.cpp
+D:\DSA\DSAlab05\Lab05\Lab05\Class.cpp(263,14): warning C4244: 'return': conversion from '_Ty' to '__int64', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+D:\DSA\DSAlab05\Lab05\Lab05\Class.cpp(269,29): warning C4244: '=': conversion from '__int64' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+D:\DSA\DSAlab05\Lab05\Lab05\Class.cpp(270,13): warning C4244: 'return': conversion from '_Ty' to '__int64', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+D:\DSA\DSAlab05\Lab05\Lab05\Class.cpp(203): warning C4715: 'PowerWithLessTime': not all control paths return a value
+  Lab05.vcxproj -> D:\DSA\DSAlab05\Lab05\x64\Debug\Lab05.exe
