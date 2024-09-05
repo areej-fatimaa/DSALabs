@@ -1,0 +1,5 @@
+﻿  Sorting.cpp
+D:\DSA\DSAlab9\Heap\Sorting.cpp(17,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\DSA\DSAlab9\Heap\Sorting.cpp(104,40): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\DSA\DSAlab9\Heap\Sorting.cpp(142,27): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Heap.vcxproj -> D:\DSA\DSAlab9\Heap\x64\Debug\Heap.exe
